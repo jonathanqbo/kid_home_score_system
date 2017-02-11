@@ -1,0 +1,1 @@
+# kid_home_score_system
